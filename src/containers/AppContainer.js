@@ -6,8 +6,7 @@ import App from '../components/App/App'
 
 function mapStateToProps(state) {
   return {
-    searchResults: state.main.searchResults,
-    timelineResults: state.main.timelineResults
+    emptyState: state
   }
 }
 

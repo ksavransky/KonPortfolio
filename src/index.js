@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Routes from './routes';
-
 import './foundation.css';
-import './index.css';
+import './main.css';
 
 import { Provider } from 'react-redux';
 import { applyMiddleware, createStore } from 'redux';
