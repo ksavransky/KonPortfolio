@@ -14,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <div id='app'>
-        App
+        App Hi
       </div>
     );
   }
